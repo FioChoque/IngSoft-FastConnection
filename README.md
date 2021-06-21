@@ -8,7 +8,8 @@
 - **Quintanilla Portugal Roxana Lisette** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 
 #### Proyecto:
-#### Autores:
+#### Integrantes 🤓:
 - **Ttito Saya Alexander** -GitHub Account_ -[AlexanderTS1](https://github.com/AlexanderTS1)
 - **Huancara Ccolqque, Alex Helder** -GitHub Account_ -[AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
 - **Tacusi Larota Jhon Edwin** -GitHub Account_ -[jhontacusi](https://github.com/jhontacusi)
+- **Choque Sarmiento** -GitHub Account_ -[Diana743238](https://github.com/Diana743238)
