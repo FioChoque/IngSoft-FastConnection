@@ -1,1 +1,5 @@
-# Grupo-3---Ing.-Soft
+# ===================UNIVERSIDAD NACIONAL DE SAN ANTONIO ABAD DEL CUSCO===========================
+# ===============ESCUELA PROFESIONAL DE INGENIERIA INFORMATICA Y DE SISTEMAS======================
+#CURSO: INGENIERIA DE SOFTWARE 1
+#INTEGRANTES:
+
