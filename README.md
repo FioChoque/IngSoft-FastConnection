@@ -12,4 +12,4 @@
 - **Ttito Saya Alexander** -GitHub Account_ -[AlexanderTS1](https://github.com/AlexanderTS1)
 - **Huancara Ccolqque, Alex Helder** -GitHub Account_ -[AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
 - **Tacusi Larota Jhon Edwin** -GitHub Account_ -[jhontacusi](https://github.com/jhontacusi)
-- **Choque Sarmiento** -GitHub Account_ -[Diana743238](https://github.com/Diana743238)
+- **Choque Sarmiento Leydi Diana** -GitHub Account_ -[Diana743238](https://github.com/Diana743238)
