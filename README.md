@@ -11,4 +11,4 @@
 #### Autores:
 - **Ttito Saya Alexander** -GitHub Account_ -[AlexanderTS1](https://github.com/AlexanderTS1)
 - **Huancara Ccolqque, Alex Helder** -GitHub Account_ -[AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
-
+- **Tacusi Larota Jhon Edwin** -GitHub Account_ -[jhontacusi](https://github.com/jhontacusi)
