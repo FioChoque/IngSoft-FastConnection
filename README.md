@@ -21,3 +21,4 @@
 ### Descripción del proyecto:
 
 ### Herramientas a utilizar:
+Asignacion, seguimiento y reporte de tareas: [Grupo FastConection](https://trello.com/b/d0lKxO7F/trabajos-1)
