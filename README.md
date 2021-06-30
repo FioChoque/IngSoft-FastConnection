@@ -14,7 +14,7 @@
 - **Tacusi Larota Jhon Edwin** - GitHub Account - [jhontacusi](https://github.com/jhontacusi)
 - **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238) 
 - **Condori Lopez ,Juan Carlos** - GitHub Account - [juancarlos170429](https://github.com/juancarlos170429) 
-- **Pereira Chinchero Richard Mikhael** - GitHub Account   
+- **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321) 
 - **Muñoz Pacheco Enit** - GitHub Account  
 - **Choque Bueno Fiorella** - GitHub Account 
 
