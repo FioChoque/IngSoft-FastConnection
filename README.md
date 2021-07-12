@@ -7,7 +7,8 @@
 #### Docente:
 - **Quintanilla Portugal Roxana Lisette** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 
-#### Proyecto:
+#### Proyecto: “Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
+Sistemas”
 #### Integrantes 🤓:
 - **Ttito Saya Alexander** - GitHub Account - [AlexanderTS1](https://github.com/AlexanderTS1)
 - **Huancara Ccolqque, Alex Helder** - GitHub Account - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
@@ -18,7 +19,10 @@
 - **Muñoz Pacheco Enit** - GitHub Account - [enit-mup](https://github.com/enit-mup)
 - **Choque Bueno Fiorella** - GitHub Account - [FioChoque](https://github.com/FioChoque)
 
-### Descripción del proyecto:
+#### Descripcion organizacional del sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
+Sistemas”
+
+La tutoría es un conjunto de procesos y actividades de información, acompañamiento y asesoría académica, integradas sistemáticamente y orientadas por el modelo educativo de la UNSAAC, desarrolladas por un conjunto de órganos de la universidad, para contribuir al proceso de formación integral del estudiante hacia el logro de su perfil de egreso. La tutoría del estudiante tiene como finalidad primordial, constituirse como un medio para hacer auténticos los fines que a su vez le están señalados por la Ley Universitaria. 
 
 ### Herramientas a utilizar:
 
