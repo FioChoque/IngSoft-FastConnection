@@ -15,7 +15,7 @@
 - **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238) 
 - **Condori Lopez ,Juan Carlos** - GitHub Account - [juancarlos170429](https://github.com/juancarlos170429) 
 - **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321) 
-- **Muñoz Pacheco Enit** - GitHub Account  
+- **Muñoz Pacheco Enit** - GitHub Account - [enit-mup](https://github.com/enit-mup)
 - **Choque Bueno Fiorella** - GitHub Account 
 
 ### Descripción del proyecto:
