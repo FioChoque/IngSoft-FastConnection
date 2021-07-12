@@ -16,7 +16,7 @@
 - **Condori Lopez ,Juan Carlos** - GitHub Account - [juancarlos170429](https://github.com/juancarlos170429) 
 - **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321) 
 - **Muñoz Pacheco Enit** - GitHub Account - [enit-mup](https://github.com/enit-mup)
-- **Choque Bueno Fiorella** - GitHub Account - [FioChoque] (https://github.com/FioChoque)
+- **Choque Bueno Fiorella** - GitHub Account - [FioChoque](https://github.com/FioChoque)
 
 ### Descripción del proyecto:
 
