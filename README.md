@@ -21,4 +21,7 @@
 ### Descripción del proyecto:
 
 ### Herramientas a utilizar:
-Asignacion, seguimiento y reporte de tareas: [Grupo FastConection](https://trello.com/b/d0lKxO7F/trabajos-1)
+Backlog: [Backlog en trello](https://trello.com/b/d0lKxO7F/trabajos-1)
+Informe: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
+Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW15_yuU1mcc/edit)
+]
