@@ -1,0 +1,69 @@
+=================================================
+============= DIARIO FAST CONNECTION ============
+=================================================
+
+=================================================
+========= Fecha		25/20/2021 ==============
+=================================================
+- Filtración de requisitos de prioridad M
+- Asignación de roles dentro del equipo SCRUM
+- Creación de la primera version de casos de Uso
+- Creacion de base del diagrama SD y SR
+
+=================================================
+=========== Fecha	09/07/2021 ==============
+=================================================
+- Inicio de la reunión: Hora 8.00 pm 
+- Refinamiento de los requisitos de prioridad M
+  según el criterio MoSCoW.
+- Refinamiento de los requisitos funcionales.
+- Agregamos nuevos requisitos y empezamos a tratar
+  con mas detalle los requisitos (volviendo a leer
+  el Reglamento de Tutoría).
+- Se volvió a rehacer la identificación de los 
+  actores de casos de uso así como sus responsabidades
+  dentro del Sistema de tutoría.
+- Creación de un nuevo digrama de Casos de Uso
+INCONVENIENTES:
+- No total asistencia o vaga asistencia por parte
+  de algunos integrantes del equipo, por situaciones
+  ajenas: como trabajos de otros cursos o problemas 
+  personales.
+- Falta de disponibilidad de tiempo
+- Rehacer casi la totalidad del trabajo
+
+================================================
+===========Fecha	10/07/2021 =============
+================================================
+- Inicio de la reunión 7:00 pm
+- Repaso de los requsitos.
+- Designación de trabajos  SD, SR, Prototipos y
+  Seleccion de metodo para la eleccion de prioridad
+  de los requisitos funcionales para la creación 
+  del Backlog a los presentes.
+- Primer avance sobre descripción del equipo SCRUM
+INCONVENIENTES:
+- Conexión tardía al meet.
+- No asistencia de algunos integrantes del equipo.
+
+================================================
+===========Fecha	11/07/2021 =============
+================================================
+- Inicio de la reunión: Hora 5.00 pm
+- Puntos a tratar: Entrega de trabajos fijados
+  a cada estudiante
+- Exposición de los trabajos realizados; así como
+  la corrección y mejora de los entregables.
+- Corrección de los requisots funcionales y 
+  verificación del metodo Priority Groups
+- Corrección del Backlog tomando en cuenta la
+  Priorización de grupos.
+- Corrección y mejora del metoo SD y SR, así como
+  la verificación sobre el avance de los prototipos
+  del Sistema de tutoría.
+- Verificación de descripcion de cada integrante
+  del equipo SCRUM (Finalización)
+INCONVENIENTES:
+- Conexión tardia de integrantes a la reunión.
+- Falta de participación activa.
+- Mala conexión a internet
